@@ -35,3 +35,6 @@ Comaring the culture of the local fanbase at Michigan State University (East Lan
 
 There are potentially more interesting conclusions to draw with the categorical variables. These are more tedious to handle so they're not done yet. Please the source code in this repository for more information.
 
+For reference, the data sets are from:
+https://www.kaggle.com/masseyratings/rankings#cf2018.csv (the cf directory, all files)
+https://www.kaggle.com/jeffgallini/college-football-attendance-2000-to-2018
