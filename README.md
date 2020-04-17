@@ -1,4 +1,4 @@
-# College-Football-Stadium-Fill-Rates
+# College Football Stadium Fill Rates
 
 The correlation of several variables with respect to the football stadium fill rate during home games is studied. The fill rate is the ratio of attendees to the capacity of the stadium. The variables included in the data set are:
 
