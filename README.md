@@ -13,7 +13,7 @@ The correlation of several variables with respect to the football stadium fill r
 - Current number of losses
 - Stadium capacity
 - Fill rate
-- Whether there is a new coach for the game
+- Whether there is a new coach the season of the game
 - Whether there was tailgating for the game
 - Amount of rainfall in inches
 - Current snow depth in inches
